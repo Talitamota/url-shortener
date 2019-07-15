@@ -12,16 +12,16 @@ Aplicação criada para reduzir links.
 
 ### Projeto:
 
-  $ python3 -m venv myvenv # (crie a virtual env)
-  $ source myvenv/bin/activate # (ative a virtual env)
-  $ python -m pip install --upgrade pip # (atualize o pip)
-  $ pip install -r requirements.txt
+    $ python3 -m venv myvenv # (crie a virtual env)
+    $ source myvenv/bin/activate # (ative a virtual env)
+    $ python -m pip install --upgrade pip # (atualize o pip)
+    $ pip install -r requirements.txt
   
 ## Iniciando a aplicação
 
 Para levantar a aplicação:
 
-  $ python manage.py run
+    $ python manage.py run
 
 
 
