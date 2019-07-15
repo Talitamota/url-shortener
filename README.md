@@ -11,6 +11,7 @@ Aplicação criada para reduzir links.
 ## Instalação em um ambiente local
 
 ### Projeto:
+
   $ python3 -m venv myvenv # (crie a virtual env)
   $ source myvenv/bin/activate # (ative a virtual env)
   $ python -m pip install --upgrade pip # (atualize o pip)
@@ -19,6 +20,7 @@ Aplicação criada para reduzir links.
 ## Iniciando a aplicação
 
 Para levantar a aplicação:
+
   $ python manage.py run
 
 
