@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<form method='POST'>{% csrf_token %}
+	{{form}}
+	<input type="submit" name="Enviar">
+	<input type="reset">
+{% if url.id %}<a href="{{url_hash}}" target="blank">{{url_hash}}</a>{% endif %}
+</form>
+</body>
+</html>
