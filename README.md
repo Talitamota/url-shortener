@@ -5,8 +5,6 @@ Aplicação criada para reduzir links.
 ## Dependências
 
 * Python 3.7
-*
-*
 
 ## Instalação em um ambiente local
 
